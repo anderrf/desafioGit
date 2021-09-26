@@ -1,3 +1,4 @@
 Olá!
 Este será o primeiro teste.
 Passando para o segundo...
+Quarta frase.
