@@ -1,4 +1,4 @@
 Olá!
 Este será o primeiro teste.
 Passando para o segundo...
-Quarta linha.
+Quarta frase.
